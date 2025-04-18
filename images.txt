@@ -5,4 +5,5 @@
 #nginxproxy/nginx-proxy:1.7.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-node:20.16.0
+#node:20.16.0
+rockylinux/rockylinux:9.5
