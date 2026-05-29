@@ -7,3 +7,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #node:20.16.0
 rockylinux/rockylinux:9.5
+jellyfin/jellyfin:10.11.10
